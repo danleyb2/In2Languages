@@ -8,7 +8,7 @@
 	 <li>Visual Basic</li>
 	 </ol>
 <style>
-	#head{
+	h1{
 		color:lightblue;
 	}
 	li{
