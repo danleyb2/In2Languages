@@ -21,20 +21,10 @@ Module DataTypes
         'Null variable declaration
         int = Nothing
         str = Nothing
-        booln = Nothing
-       
-        'Calling a sub/Method
-        MathOperators()
-
-
-        'outputing variables
-        Console.WriteLine(dble & " is a double Variable")
-        'getting user Input As a specified Variable
-        Dim name As String = Console.ReadLine()
-        '
-
-
-    End Sub
+        booln = Nothing    
+        
+   Console.Readline()      'Wait for user      
+        End Sub
     
 
 

@@ -1,7 +1,8 @@
 Module LoopsAndConditions
 
     Sub Main()
-	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+    
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
     
         ' 1. If Statements
 		
@@ -42,6 +43,17 @@ Module LoopsAndConditions
             DoSomething()
 
         End If
+        
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' 2.Select Case 
+  Console.WriteLine("How old are you: ??")
+  Dim age As Integer = Console.Readline()
+  
+
+        
+        
+        
+        Console.Readline()      'Wait for user 
 
 
 
@@ -58,10 +70,6 @@ Module LoopsAndConditions
     Private Sub DoSomethingDefault()
         Throw New NotImplementedException
     End Sub
-'-----------------------------------------------------------------------------------------------------------------------------------------------
-' 2.Select Case 
-  Console.WriteLine("How old are you: ??")
-  Dim age As Integer = Console.Readline()
   
   
 
