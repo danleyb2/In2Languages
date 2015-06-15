@@ -1,4 +1,4 @@
-Module HelloWorld
+Module Basics
     Sub Main()
 'comments
 'Writing Hello World to console
